@@ -20,3 +20,8 @@
 
 .env file in the root
 FAST_REFRESH=FALSE
+
+####
+```
+This project is from react course -> React Tutorial and Projects Course
+```
